@@ -21,6 +21,7 @@ pipeline {
             steps {
                 echo 'Deploying the application...'
                 // Example shell command: sh 'make publish'
+                echo 'Deploying the application...UPDATING THE REPOSITORY'
             }
         }
     }
